@@ -1,2 +1,2 @@
 # Implement-retention-eDiscovery-and-Communication-Compliance-in-Microsoft-Purview
-This repository documents a hands-on applied skills exercise based on Microsoft Learn titled "Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview"
+This repository documents a hands-on applied skills exercise based on Microsoft Learn titled "Implement retention, eDiscovery, and Communication Compliance in Microsoft Purview". The scenario in this experience helped me to validate my ability to implement retention, eDiscovery, Communication Compliance, and Content search in Microsoft Purview, effectively implementing data security.
